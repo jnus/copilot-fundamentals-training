@@ -101,13 +101,13 @@ For effective interaction with Copilot, it's essential to keep in mind that **Co
 
 - **Description**: Create a NodeJS calculator, with the help of Copilot
 
-  - Open the `/demos/Node-Calculator/README.md`
+  - Open the `/demos/Node-calculator/README.md`
 
   - **Follow the instructions in that file.**
     - The ':arrow_forward: Help' sections provide solution examples, click them to expand.
     ...
 
-- **Repository Link:** Inside the `/copilot-fundamentals-training` Repo open, [/demos/Node-Calculator/README.md](/demos/Node-Calculator/README.md)
+- **Repository Link:** Inside the `/copilot-fundamentals-training` Repo open, [/demos/Node-calculator/README.md](/demos/Node-calculator/README.md)
 
 ---
 

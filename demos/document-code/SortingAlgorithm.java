@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SortingAlgorithm {
+public class SortingAlgorithm {git 
     public static void sort(int[] array) {
         sort(array, 0, array.length - 1);
     }
@@ -24,12 +24,6 @@ public class SortingAlgorithm {
         }
         swap(array, i + 1, end);
         return i + 1;
-    }
-
-    private static void swap(int[] array, int i, int j) {
-        int temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
     }
 
     public static void main(String[] args) {

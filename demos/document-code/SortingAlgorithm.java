@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SortingAlgorithm {git 
+public class SortingAlgorithm {
     public static void sort(int[] array) {
         sort(array, 0, array.length - 1);
     }
